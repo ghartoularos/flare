@@ -23,7 +23,7 @@ ipywidgets==7.4.1
 jedi==0.12.1
 -e git+https://github.com/perrygeo/jenks.git@1e6eb5af6a221a3af03bbd02ef7990aec7eca148#egg=jenks
 Jinja2==2.10
-joblib==0.12.2
+joblib==1.2.0
 jsonschema==2.6.0
 jupyter-client==5.2.3
 jupyter-core==4.4.0
